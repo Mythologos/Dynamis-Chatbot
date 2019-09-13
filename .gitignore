@@ -1,0 +1,7 @@
+.idea/
+doc/
+*.ctxt
+*.class
+*.bluej
+
+README.TXT
